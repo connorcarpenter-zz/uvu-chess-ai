@@ -1,0 +1,14 @@
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\bin\Debug\UvsChess.exe
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\bin\Debug\UvsChess.pdb
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\UvsChess.Gui.GuiChessBoard.resources
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\UvsChess.Gui.WinGui.resources
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\UvsChess.Gui.AboutUvsChess.resources
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\UvsChess.Gui.Preferences.resources
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\UvsChess.Gui.GuiDecisionTree.resources
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\UvsChess.Gui.MessageBox.resources
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\Framework.csproj.GenerateResource.Cache
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\UvsChess.exe
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\uvschess-1.0.2\uvschess-1.0.2\Framework\obj\Debug\UvsChess.pdb
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\Debug\UvsChess.exe
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\Debug\UvsChess.pdb

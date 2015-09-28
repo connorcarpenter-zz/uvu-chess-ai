@@ -1,0 +1,7 @@
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\ExampleAI\bin\x86\Debug\ExampleAI.dll
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\ExampleAI\bin\x86\Debug\ExampleAI.pdb
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\ExampleAI\bin\x86\Debug\UvsChess.exe
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\ExampleAI\bin\x86\Debug\UvsChess.pdb
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\ExampleAI\obj\x86\Debug\ExampleAI.csprojResolveAssemblyReference.cache
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\ExampleAI\obj\x86\Debug\ExampleAI.dll
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\ExampleAI\obj\x86\Debug\ExampleAI.pdb

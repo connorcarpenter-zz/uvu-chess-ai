@@ -1,0 +1,28 @@
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\bin\x86\Debug\UvsChess.exe
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\bin\x86\Debug\UvsChess.pdb
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\Framework.csprojResolveAssemblyReference.cache
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\UvsChess.Gui.GuiChessBoard.resources
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\UvsChess.Gui.WinGui.resources
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\UvsChess.Gui.AboutUvsChess.resources
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\UvsChess.Gui.Preferences.resources
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\UvsChess.Gui.GuiDecisionTree.resources
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\UvsChess.Gui.MessageBox.resources
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\Framework.csproj.GenerateResource.Cache
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\UvsChess.exe
+C:\Users\rjelte.HM\fall2014\4470-AI\UvsChess\uvschess-1.0.2.c\uvschess-1.0.2\Framework\obj\x86\Debug\UvsChess.pdb
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\2014UvsChess\Framework\obj\x86\Debug\UvsChess.exe
+C:\Users\10006678\Documents\Courses\CS 4470\Labs\Chess Lab\2014UvsChess\Framework\obj\x86\Debug\UvsChess.pdb
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\UvsChess.exe
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\UvsChess.pdb
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\bin\x86\Debug\UvsChess.exe
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\bin\x86\Debug\UvsChess.pdb
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\Framework.csprojResolveAssemblyReference.cache
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\UvsChess.Gui.GuiChessBoard.resources
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\UvsChess.Gui.WinGui.resources
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\UvsChess.Gui.AboutUvsChess.resources
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\UvsChess.Gui.Preferences.resources
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\UvsChess.Gui.GuiDecisionTree.resources
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\UvsChess.Gui.MessageBox.resources
+C:\Users\conno\Downloads\Chess Lab (1)\2014UvsChess\2014UvsChess\Framework\obj\x86\Debug\Framework.csproj.GenerateResource.Cache
+C:\Repos\ChessAI\Framework\obj\x86\Debug\UvsChess.exe
+C:\Repos\ChessAI\Framework\obj\x86\Debug\UvsChess.pdb
